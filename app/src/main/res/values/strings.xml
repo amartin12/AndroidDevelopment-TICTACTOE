@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assign1TicTacToe</string>
+    <string name="welcome_to_tic_tac_toe">WELCOME TO TIC TAC TOE</string>
+    <string name="rules_of_the_game_1_the_game_is_played_on_a_grid_that_s_3_squares_by_3_squares_2_you_are_x_your_friend_or_the_computer_in_this_case_is_o_players_take_turns_putting_their_marks_in_empty_squares_3_the_first_player_to_get_3_of_her_marks_in_a_row_up_down_across_or_diagonally_is_the_winner_4_when_all_9_squares_are_full_the_game_is_over_if_no_player_has_3_marks_in_a_row_the_game_ends_in_a_tie">RULES OF THE GAME: 1. The game is played on a grid that\'s 3 squares by 3 squares. 2. You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares. 3. The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner. 4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.</string>
+    <string name="start">START</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="welcome">Welcome!</string>
+    <string name="reset_game">Reset Game</string>
+</resources>
